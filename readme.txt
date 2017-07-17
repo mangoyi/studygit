@@ -1,2 +1,2 @@
 I am a loser . Now I am not a loser.first add.
-this is commit in master.
+Creating a new branch is quick and simple.
